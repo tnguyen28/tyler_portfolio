@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+  font-family: "Montserrat", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  padding: 0 5rem;
+  background: #0b0c10;
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen and (max-width: 376px) {
+  body {
+    font-size: 10px;
+    padding: 0 1rem;
+  }
+}
+
+/* Desktops and laptops ----------- */
+@media only screen and (max-width: 768px) {
+  body {
+    font-size: 8px;
+  }
+}
+
+/* Desktops and laptops ----------- */
+@media only screen and (max-width: 1024px) {
+  body {
+    font-size: 9px;
+  }
+}
+/* Desktops and laptops ----------- */
+@media only screen and (max-width: 1275px) {
+  body {
+    font-size: 8px;
+  }
+}
+
+/* Large screens ----------- */
+@media only screen and (max-width: 1824px) {
+  body {
+    font-size: 10px;
+  }
+}
