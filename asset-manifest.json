@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/tylern_portfolio/static/css/main.a5fff184.chunk.css",
+    "main.js": "/tylern_portfolio/static/js/main.b08397e7.chunk.js",
+    "main.js.map": "/tylern_portfolio/static/js/main.b08397e7.chunk.js.map",
+    "runtime-main.js": "/tylern_portfolio/static/js/runtime-main.eea94541.js",
+    "runtime-main.js.map": "/tylern_portfolio/static/js/runtime-main.eea94541.js.map",
+    "static/js/2.fff33696.chunk.js": "/tylern_portfolio/static/js/2.fff33696.chunk.js",
+    "static/js/2.fff33696.chunk.js.map": "/tylern_portfolio/static/js/2.fff33696.chunk.js.map",
+    "static/js/3.f0ff1999.chunk.js": "/tylern_portfolio/static/js/3.f0ff1999.chunk.js",
+    "static/js/3.f0ff1999.chunk.js.map": "/tylern_portfolio/static/js/3.f0ff1999.chunk.js.map",
+    "index.html": "/tylern_portfolio/index.html",
+    "static/css/main.a5fff184.chunk.css.map": "/tylern_portfolio/static/css/main.a5fff184.chunk.css.map",
+    "static/js/2.fff33696.chunk.js.LICENSE.txt": "/tylern_portfolio/static/js/2.fff33696.chunk.js.LICENSE.txt",
+    "static/media/barhop.3d1e6c54.png": "/tylern_portfolio/static/media/barhop.3d1e6c54.png",
+    "static/media/drinksondemand.08ba5235.png": "/tylern_portfolio/static/media/drinksondemand.08ba5235.png",
+    "static/media/esport.cbc92715.png": "/tylern_portfolio/static/media/esport.cbc92715.png",
+    "static/media/lowkey.e618d8f3.png": "/tylern_portfolio/static/media/lowkey.e618d8f3.png",
+    "static/media/tyler.f7c3485b.png": "/tylern_portfolio/static/media/tyler.f7c3485b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eea94541.js",
+    "static/js/2.fff33696.chunk.js",
+    "static/css/main.a5fff184.chunk.css",
+    "static/js/main.b08397e7.chunk.js"
+  ]
+}
