@@ -7,7 +7,7 @@ export default [
   {
     projectName: "Drinks on Demand",
     description: "A website for enthusiasts to find/create new drinks",
-    projectUrl: "https://tntttom-mern.github.io/home-loan/",
+    projectUrl: "https://github.com/Dec2020PandA/Tyler_Nguyen_SoloProject",
     projectImg: drinks,
   },
   {
